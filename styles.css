@@ -159,7 +159,7 @@ nav {
         width:100%;
     }
 
-    */TECH-STACK*/
+   /*TECH STACK*/
 
     .language__img {
         width: 100%;
@@ -204,3 +204,13 @@ transform: scale(1);
 opacity: 1;
     }
 
+/*PROJECTS*/
+    
+    .project__img {
+        width: 100%;
+    }
+
+    .project__wrapper {
+        box-shadow: 0 20px 80px rgba (0,0,0,0.45);
+        border-radius: 20px;;
+    }
