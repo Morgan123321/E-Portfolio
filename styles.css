@@ -176,7 +176,7 @@ nav {
         width: 25%;
         display: flex;
         justify-content: center;
-        position:relative;
+        position: relative;
     }
     .language__img--wrapper {
         display: flex;
